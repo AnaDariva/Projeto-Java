@@ -2,7 +2,7 @@
 *Sistema simples de Gerenciamento de tarefas*
 
 **Linguagem de Programação:** Java 
-**Persistência de Dados:** JPA (Java Persistence API) com Hibernate  
+**Persistência de Dados:** JPA (Java Persistence API) com Hibernate 
 **Banco de Dados:** PostgreSQL
 
 <h2 align="left"> Languages: </h2>
