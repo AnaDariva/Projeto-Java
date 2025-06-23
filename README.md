@@ -1,7 +1,7 @@
 # PROJETO JAVA
 *Sistema simples de Gerenciamento de tarefas*
 
-**Linguagem de Programação:** Java
+**Linguagem de Programação:** Java.
 **Persistência de Dados:** JPA (Java Persistence API) com Hibernate 
 **Banco de Dados:** PostgreSQL
 
